@@ -1,4 +1,4 @@
-# Hello there 👋, I'm Colin But
+# Hello there 👋, I'm Simrat Hayer
 
 ### Software/DevOps/Platform Engineer
 
